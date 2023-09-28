@@ -15,6 +15,9 @@
 - ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 - ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
 - ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?logo=eclipse&logoColor=white&style=flat)
 - ![Spyder](https://img.shields.io/badge/-Spyder-FF0000?logo=spyder%20ide&logoColor=white&style=flat)
@@ -22,10 +25,11 @@
 - ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=flat)
 
 🌱 Learning
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+- ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&style=flat)
+- ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&style=flat)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&style=flat)
+- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&style=flat)
 
 ## Contact
 - Email: samonto0726@gmail.com
