@@ -11,18 +11,9 @@
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 
 🛠️ Tools
-- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-- ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
-- ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?logo=eclipse&logoColor=white&style=flat)
-- ![Spyder](https://img.shields.io/badge/-Spyder-FF0000?logo=spyder%20ide&logoColor=white&style=flat)
-- ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=google%20colab&logoColor=white&style=flat)
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=flat)
+- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+- ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?logo=eclipse&logoColor=white&style=flat) ![Spyder](https://img.shields.io/badge/-Spyder-FF0000?logo=spyder%20ide&logoColor=white&style=flat) ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=google%20colab&logoColor=white&style=flat) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&logoColor=white&style=flat)
 
 🌱 Learning
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
